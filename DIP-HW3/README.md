@@ -141,8 +141,7 @@ The predicted 2D position of point $j$ in view $i$ is:
 
 $$
 \hat{p}_{ij} =
-\pi(R_i P_j + T_i, f)
-=
+\pi(R_i P_j + T_i, f)=
 \begin{bmatrix}
 u_{ij} \\
 v_{ij}
