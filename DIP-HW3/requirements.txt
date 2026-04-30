@@ -1,0 +1,7 @@
+# Python dependencies for DIP-HW3.
+# COLMAP is a separate system executable and should be installed manually.
+
+numpy>=1.23
+torch>=2.0
+matplotlib>=3.7
+opencv-python>=4.8
