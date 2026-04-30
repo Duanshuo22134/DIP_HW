@@ -5,3 +5,5 @@
 [HW1](https://github.com/Duanshuo22134/DIP_HW/tree/main/DIP-HW1)
 
 [HW2](https://github.com/Duanshuo22134/DIP_HW/tree/main/DIP-HW2)
+
+[HW3](https://github.com/Duanshuo22134/DIP_HW/tree/main/DIP-HW3)
